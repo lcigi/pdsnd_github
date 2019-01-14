@@ -14,5 +14,5 @@ readme.txt
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 I have made use of the python documentation to read up on functions to fully understand them.
-In addition, I have used Stack Overflow to understand how the function are implemented in code.
+In addition, I have used Stack Overflow to understand how the function are implemented in code or when certain errors occurred.
 Stack Overflow also proved helpful in clarifying errors and problems.
