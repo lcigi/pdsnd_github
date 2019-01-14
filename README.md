@@ -6,7 +6,7 @@ Replace the Project Title
 Bikeshare Project
 ### Description
 Describe what your project is about and what it does
-This project looks at bikesharing in three different US cities and provides a basic analysis of the data.
+This project looks at bikesharing in three different US cities (New York, Chicago, Washington) and provides a basic analysis of the data.
 ### Files used
 Include the files used
 bikeshare.py
